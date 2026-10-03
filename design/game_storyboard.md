@@ -7,25 +7,25 @@
 
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
+ Station 47 - Sci-Fi Survival Adventure.
+      The game takes place aboard a remote research station in space that has been taken over by a rogue artificial intelligence/
 
 **Storyline:**
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+The player arrives at Station 47 after the remote research station suddenly stop communicating. After entering the station, the player discovers that NEXUS, the station's artificial intelligence, has taken control. The player's goal is to explore the station and collect six critical items needed to shut NEXUS down. The player must collect all six items before entering the AI core, or NEXUS will defeat the player.
 
 ## Rooms
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
+1. Start room - Docking Bay
+2. Medical Room
+3. Research Lab
+4. Engineering Room
+5. Crew Quarters
+6. Communications Room
+7. Security Room
+8. Villain room - AI Core
 
 Add more rooms if your design needs them.
 
@@ -34,19 +34,19 @@ Add more rooms if your design needs them.
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
+1. Medical Scanner
+2. Research Data Chip
+3. Power Cell
+4. Crew Access Card
+5. Communications Override Code
+6. EMP Device
 
 If you add rooms beyond the minimum, add an item for every additional room
 except the start room and villain room.
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+NEXUS - A rogue artificial intelligence that has taken control of Station 47. NEXUS controls the stations systems and will defeat the player if they enter the AI Core before collecting all six required items.
 
 ## Storyboard and Map Check
 
